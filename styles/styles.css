@@ -1,6 +1,6 @@
 :root {
     --primary-color: #2B3D6F;
-    --primary-font: "Fauna One", serif
+    --primary-font: "Fauna One", serif;
 }
 
 * {
@@ -45,7 +45,7 @@ main {
 aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid rgba(0, 0, 0 / 10%);
+    border: 1px solid rgba(0 0 0 / 10%);
     padding: 1rem;
     background-color: #eee;
     color: #333;
@@ -79,7 +79,7 @@ footer {
 /* Class Selectors */
 .box {
     margin: 1rem;
-    border: 1px solid rgba(0, 0, 0 / 10%);
+    border: 1px solid rgba(0 0 0 / 10%);
     padding: 1rem;
     background-color: #ddd;
     color: #000;
