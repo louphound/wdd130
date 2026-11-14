@@ -1,11 +1,10 @@
 :root {
     --primary-color: #18384C;
-    --secondary-color: #287D8E;
     --accent1-color: #26363D;
     --accent2-color: #F4EBDD;
     --highlight-color: #D9A441;
 
-    --heading-font: "Fauna One", Georgia, serif;
+    --heading-font: Georgia, "Times New Roman" serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
 
